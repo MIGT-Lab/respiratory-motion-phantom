@@ -1,0 +1,13 @@
+category,item,specification,quantity,cost_usd,location
+Off-the-shelf,DC power supply,"Korad KD3005D DC linear power supply (12 V)",1,85,Control room
+Off-the-shelf,DC gear motor,"12 V, 16 rpm, 70 kg·cm (6.86 N·m) gear motor (Bringsmart)",1,30,Control room
+Off-the-shelf,DC motor speed controller,"6-60 V, 30 A PWM motor controller (Vikye)",1,15,Control room
+Off-the-shelf,Flange shaft coupling,"8 mm flange coupling, M4 thread, metal (Magic&shell)",1,11,Control room
+Off-the-shelf,Bag valve mask (BVM) with reservoir bag,"Adult BVM, 1.8 L, with reservoir bag (reservoir bag is used inside the phantom)",1,50,Both
+Off-the-shelf,Tygon tubing,"Masterflex Tygon tubing, 15 ft",1,26,Both
+Off-the-shelf,Epoxy glue,"Gorilla Glue Epoxy (non-magnetic, water resistant)",1,11,Both
+Off-the-shelf,Rubber bands,"Elastic rubber bands for passive return force",several,,MRI bore
+Printed,ABS filament,"Acrylonitrile butadiene styrene, about 1.4 kg in total",1.4 kg,29,Both
+Printed,Motion actuator parts,"hardware/motion-actuator/*.stl (see docs/ASSEMBLY.md)",20 files,,Control room
+Printed,Motion phantom parts,"hardware/motion-phantom/*.stl (see docs/ASSEMBLY.md)",8 files,,MRI bore
+Total,,"1.4 kg x $21 + $228",,257,

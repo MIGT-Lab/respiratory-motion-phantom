@@ -1,0 +1,16 @@
+{
+  "title": "Respiratory Motion Phantom: low-cost MR-compatible pneumatic respiratory organ motion simulator",
+  "upload_type": "software",
+  "description": "Open hardware (STL files, bill of materials, assembly guide) for a low-cost MR-compatible pneumatic respiratory organ motion simulator for MR-guided thermal therapy and motion-robust MRI development. Please cite Kim et al., Medical Physics 2022;49(7):4365-4371, doi:10.1002/mp.15783.",
+  "creators": [
+    {"name": "Kim, Kisoo", "affiliation": "Kyung Hee University"},
+    {"name": "Jones, Peter", "affiliation": "University of California San Francisco"},
+    {"name": "Diederich, Chris", "affiliation": "University of California San Francisco"},
+    {"name": "Ozhinsky, Eugene", "affiliation": "University of California San Francisco"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["respiratory motion phantom", "MR-compatible", "motion simulator", "MR thermometry", "MRgFUS", "focused ultrasound", "hyperthermia", "open hardware", "3D printing"],
+  "related_identifiers": [
+    {"identifier": "10.1002/mp.15783", "relation": "isSupplementTo", "scheme": "doi"}
+  ]
+}

@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this respiratory motion phantom design, please cite the paper below."
+title: "Respiratory Motion Phantom: low-cost MR-compatible pneumatic respiratory organ motion simulator"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Kisoo
+    email: kisoo.kim@khu.ac.kr
+    affiliation: "Department of Biomedical Engineering, Kyung Hee University"
+  - family-names: Jones
+    given-names: Peter
+    affiliation: "Department of Radiation Oncology, University of California San Francisco"
+  - family-names: Diederich
+    given-names: Chris
+    affiliation: "Department of Radiation Oncology, University of California San Francisco"
+  - family-names: Ozhinsky
+    given-names: Eugene
+    affiliation: "Department of Radiology and Biomedical Imaging, University of California San Francisco"
+repository-code: "https://github.com/MIGT-Lab/respiratory-motion-phantom"
+url: "https://github.com/MIGT-Lab/respiratory-motion-phantom"
+license: CC-BY-4.0
+keywords:
+  - respiratory motion phantom
+  - MR-compatible
+  - motion simulator
+  - abdominal organ motion
+  - MR thermometry
+  - MRgFUS
+  - focused ultrasound
+  - hyperthermia
+  - motion compensation
+  - open hardware
+  - 3D printing
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kim
+      given-names: Kisoo
+    - family-names: Jones
+      given-names: Peter
+    - family-names: Diederich
+      given-names: Chris
+    - family-names: Ozhinsky
+      given-names: Eugene
+  title: "Technical note: Low-cost MR-compatible pneumatic respiratory organ motion simulator for the development of MR-guided thermal therapy"
+  journal: "Medical Physics"
+  year: 2022
+  month: 7
+  volume: 49
+  issue: 7
+  start: 4365
+  end: 4371
+  doi: "10.1002/mp.15783"
+  identifiers:
+    - type: other
+      value: "PMID:35635215"
+    - type: other
+      value: "PMCID:PMC9288488"
