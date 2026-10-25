@@ -145,6 +145,10 @@ You can also click **"Cite this repository"** in the right sidebar of this page 
 1. Kim K, Narsinh K, Ozhinsky E. Technical advances in motion‑robust MR thermometry. *Magnetic Resonance in Medicine*. 2024;92(1):15–27. [doi:10.1002/mrm.30057](https://doi.org/10.1002/mrm.30057)
 2. Kim K, Diederich C, Narsinh K, Ozhinsky E. Motion‑robust, multi‑slice, real‑time MR thermometry for MR‑guided thermal therapy in abdominal organs. *International Journal of Hyperthermia*. 2023;40(1):2151649. [doi:10.1080/02656736.2022.2151649](https://doi.org/10.1080/02656736.2022.2151649)
 
+## Other open‑source projects from MIGT Lab
+
+1. [SparseArrayTransducerDesign](https://github.com/MIGT-Lab/SparseArrayTransducerDesign): sparse spherical‑cap phased array layout generator for low‑intensity transcranial focused ultrasound (MATLAB and Python)
+
 ## Acknowledgments
 
 Developed by the Thermal Therapy Research Group, University of California, San Francisco. Supported by NIH grants R21EB026018, R01EB025990, and R21CA230120. The design was originally released at `github.com/mri-kisoo/RespiMotionSimulator` (reference 19 in the paper) and is now maintained here by the **Medical Imaging Guided Therapy (MIGT) Lab, Kyung Hee University**.
